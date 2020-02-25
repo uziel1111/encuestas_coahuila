@@ -6,7 +6,7 @@
 	
         <p>
 			La educación debe ser una oportunidad para todos a lo largo de la vida. En la Secretaría
-			de Educación del Estado de COAHUILA (SUDU), y el Instituto Estatal de Educación para Adultos (IEEA), queremos apoyar a todas las personas que no han concluido la
+			de Educación del Estado de COAHUILA (SEDU), y el Instituto Estatal de Educación para Adultos (IEEA), queremos apoyar a todas las personas que no han concluido la
 			educación básica.
 		</p>
         <p>
@@ -18,7 +18,7 @@
 		</p>
 		<p>
 			Lo único que hay que hacer es registrar a estas personas en esta aplicación, para que un
-			representante del IEEA <strong>o de la SUDU </strong> se ponga en contacto con ellos. Al registrarla, le habrás ayudado a
+			representante del IEEA <strong>o de la SEDU </strong> se ponga en contacto con ellos. Al registrarla, le habrás ayudado a
 			esa persona a alcanzar una meta que seguramente tendrá un impacto muy positivo en su
 			vida y en la de su familia. 
 		</p>
