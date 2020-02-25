@@ -66,7 +66,7 @@
   <div class="card-body">
   <ul class="list-group">
   <li class="list-group-item list-group-item-action">
-	  	<a href="<?=base_url("data/EncuestaRezagoCoahuila.pdf") ?>" style="color:black; text-decoration: none; cursor: pointer;" download="EncuestaRezagoSinaloa.pdf">
+	  	<a href="<?=base_url("data/EncuestaRezagoCoahuila.pdf") ?>" style="color:black; text-decoration: none; cursor: pointer;" download="EncuestaRezago.pdf">
 		  <i class="fas fa-pen-square text-muted"></i> Formato de levantamiento
 
 		</a>
