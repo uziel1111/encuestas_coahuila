@@ -13,7 +13,7 @@
 
 
   <link href="<?= base_url('assets/fonts/fontawesome5/css/all.css') ?>" rel="stylesheet" media="screen">
-  <link rel="shortcut icon" href="<?= base_url('assets/img/logosin.png') ?>" />
+  <link rel="shortcut icon" href="<?= base_url('assets/img/favicon-coa.png') ?>" />
 	<script type="text/javascript">
   var base_url = live_url = "<?= base_url() ?>";
 </script>
