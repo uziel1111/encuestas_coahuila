@@ -5,25 +5,14 @@
     <div class="col-md-5 info-img-1 shadow text-justify">
 
         <p>
-			La educación debe ser una oportunidad para todos a lo largo de la vida. En la Secretaría
-			de Educación del Estado de COAHUILA (SEDU), y el Instituto Estatal de Educación para Adultos (IEEA), queremos apoyar a todas las personas que no han concluido la
-			educación básica.
+			La educación debe ser una oportunidad para cada persona a lo largo de la vida. En la Secretaría de Educación del Estado de Coahuila (SEDU) y el Instituto Estatal de Educación para Adultos (IEEA), queremos apoyar a quienes no han concluido la educación básica para hacer válido su derecho a la educación y abatir el rezago educativo.
 		</p>
         <p>
-			La escuela es una instancia privilegiada para ayudar a los adultos en este objetivo. Por
-			ello, invitamos a toda la comunidad escolar a que pregunte a los alumnos y personal de la
-			escuela si tienen algún familiar, amigo o conocido <strong>mayor de 15 años</strong> y que no haya
-			concluido la primaria o la secundaria. No importa en qué parte del estado viva esa
-			persona.
+		La comunidad escolar es una instancia privilegiada para ayudar a los adultos en este objetivo. Por ello, le invitamos a que identifique a padres de familia, personal de apoyo y/o vecinos mayores de 15 años que aún no hayan concluido la primaria o la secundaria. Lo único que hay que hacer es registrar los datos de cada persona en este sencillo formato para que un representante del IEEA se ponga en contacto con ellos. Al registrarla, hará usted posible que mejoren sus condiciones de vida y las de su familia.
 		</p>
+		
 		<p>
-			Lo único que hay que hacer es registrar a estas personas en esta aplicación, para que un
-			representante del IEEA <strong>o de la SEDU </strong> se ponga en contacto con ellos. Al registrarla, le habrás ayudado a
-			esa persona a alcanzar una meta que seguramente tendrá un impacto muy positivo en su
-			vida y en la de su familia.
-		</p>
-		<p>
-		<strong>¡Todos son bienvenidos!</strong>
+		<strong>Hoy más que nunca, la educación es tarea de todos.</strong>
 		</p>
 
 	</div>
