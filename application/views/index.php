@@ -3,7 +3,7 @@
 
   <div class="row no-gutters justify-content-md-center mt-4">
     <div class="col-md-5 info-img-1 shadow text-justify">
-	
+
         <p>
 			La educación debe ser una oportunidad para todos a lo largo de la vida. En la Secretaría
 			de Educación del Estado de COAHUILA (SUDU), y el Instituto Estatal de Educación para Adultos (IEEA), queremos apoyar a todas las personas que no han concluido la
@@ -20,14 +20,14 @@
 			Lo único que hay que hacer es registrar a estas personas en esta aplicación, para que un
 			representante del IEEA <strong>o de la SUDU </strong> se ponga en contacto con ellos. Al registrarla, le habrás ayudado a
 			esa persona a alcanzar una meta que seguramente tendrá un impacto muy positivo en su
-			vida y en la de su familia. 
+			vida y en la de su familia.
 		</p>
 		<p>
 		<strong>¡Todos son bienvenidos!</strong>
 		</p>
 
 	</div>
-	
+
     <div class="col-md-5 info-txt-1 shadow">
 	<div class="row align-items-start">
     <div class="col">
@@ -59,15 +59,15 @@
 				<hr/>
 		</div>
 	</div>
-	
+
 	<div class="row align-items-end" style="vertical-align:;">
     <div class="col">
 	<div class="card text-white bg-success shadow">
   <div class="card-body">
   <ul class="list-group">
   <li class="list-group-item list-group-item-action">
-	  	<a href="<?=base_url("data/EncuestaRezagoSinaloa.pdf") ?>" style="color:black; text-decoration: none; cursor: pointer;" download="EncuestaRezagoSinaloa.pdf">
-		  <i class="fas fa-pen-square text-muted"></i> Formato de levantamiento 
+	  	<a href="<?=base_url("data/EncuestaRezagoCoahuila.pdf") ?>" style="color:black; text-decoration: none; cursor: pointer;" download="EncuestaRezagoSinaloa.pdf">
+		  <i class="fas fa-pen-square text-muted"></i> Formato de levantamiento
 
 		</a>
 	</li>
@@ -79,7 +79,7 @@
 	</div>
 
 	</div>
-	
+
 
   </div>
 

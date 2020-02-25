@@ -7,10 +7,10 @@
 
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="<?=base_url('assets/css/style.css')?>">
-  
+
    <script src="<?=base_url('assets/jquery/jquery-3.2.1.min.js')?>"></script>
   <script src="<?=base_url('assets/jquery/jquery.validate.js')?>"></script>
-  
+
 
   <link href="<?= base_url('assets/fonts/fontawesome5/css/all.css') ?>" rel="stylesheet" media="screen">
   <link rel="shortcut icon" href="<?= base_url('assets/img/logosin.png') ?>" />
@@ -37,7 +37,7 @@
           <div class="col-1 bg-color-3 d-none d-lg-block"></div>
           <div class="col-1 bg-color-3 d-none d-lg-block"></div>
           <div class="col-1 bg-color-3 d-none d-lg-block"></div>
-		
+
         </div>
       </div>
       <div class="header bg-dark d-none d-lg-block">
@@ -53,7 +53,7 @@
       <?php else : ?>
 			<div class="col-6">
      BIENVENIDO
-			</div>      
+			</div>
       <?php endif; ?>
 		</div>        <!--/row-->
 	</div>    <!--container-->
@@ -65,10 +65,10 @@
 
   <nav class="navbar navbar-expand-md navbar-light bg-light shadow">
   <div class="container d-flex justify-content-between">
-  
+
     <a class="navbar-brand"><img src="<?php echo base_url('assets/img/censo-logo.png') ?>" class="img-fluid" alt="Escudo COAHUILA"></a>
     <div class="justify-content-end">
-   
+
     </div>
     <?php if(isset($cct)) :?>
     <div class="btn-group d-lg-none">
@@ -83,8 +83,8 @@
 						<div class="dropdown-divider"></div>
 						<span class="align-middle"><?= $cct['turno'] ?></span>
 						<i class="fas fa-adjust align-middle" aria-hidden="true"></i>
-						<div class="dropdown-divider"></div>			  
-            <a class="btn btn-dark rounded-pill btn-block" href="<?= site_url("Login/cerrar_sesion")?>"><i class="fas fa-sign-out-alt"></i> Cerrar sesión</a>				  
+						<div class="dropdown-divider"></div>
+            <a class="btn btn-dark rounded-pill btn-block" href="<?= site_url("Login/cerrar_sesion")?>"><i class="fas fa-sign-out-alt"></i> Cerrar sesión</a>
 					</p>
 
 				  </div>
@@ -93,4 +93,3 @@
     </div>
 
   </nav>
-
