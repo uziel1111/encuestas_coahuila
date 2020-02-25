@@ -71,10 +71,6 @@
 
 		</a>
 	</li>
-  <li class="list-group-item list-group-item-action">
-	  <a href="<?=base_url("data/Politicasprivacidad.pdf") ?>"  style="color:black; text-decoration: none; cursor: pointer;" target="_blank">
-	  <i class="fas fa-award text-muted"></i> Política de Privacidad</a> 
-</li>
 </ul>
 
 		</div>

@@ -66,7 +66,7 @@
   <nav class="navbar navbar-expand-md navbar-light bg-light shadow">
   <div class="container d-flex justify-content-between">
   
-    <a class="navbar-brand"><img src="<?php echo base_url('assets/img/censo-logo.png') ?>" class="img-fluid" alt="Escudo Sinaloa"></a>
+    <a class="navbar-brand"><img src="<?php echo base_url('assets/img/censo-logo.png') ?>" class="img-fluid" alt="Escudo COAHUILA"></a>
     <div class="justify-content-end">
    
     </div>

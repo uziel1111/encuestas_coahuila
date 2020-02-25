@@ -122,7 +122,7 @@ Encuesta.prototype.set_encuesta = function(form){
     if(data.save == 1 || data.save == 'true'){
       Swal.fire({
         icon: 'success',
-        title: '¡Gracias por ayudar a las familias de Sinaloa!',
+        title: '¡Gracias por ayudar a las familias de Coahuila!',
         showConfirmButton: false,
       })
       // obj_encuesta.cerrar_modal('modal_get_encuesta');
